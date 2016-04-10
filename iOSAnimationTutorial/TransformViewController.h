@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TransformViewController.h
 //  iOSAnimationTutorial
 //
 //  Created by 臧其龙 on 16/4/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TransformViewController : UIViewController
 
 @end
-
